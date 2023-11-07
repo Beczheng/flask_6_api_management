@@ -7,7 +7,6 @@
 
 ### Flask-Based RESTful API
 - For more information, click [here](https://github.com/Beczheng/flask_6_api_management/blob/main/LocalFunctionProj/function_app.py).
-- **Note:** Make sure to `pip install flasgger`.
 
 ### Function App Deployment
 - In your Cloud Shell terminal, type `curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`. This will install the Azure CLI.
