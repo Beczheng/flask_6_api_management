@@ -3,7 +3,6 @@
 ### Assignment:
 - Course: HHA 504
 - Homework assignment #6: Develop, document, and manage APIs using Flask.
-- **Link:** https://flask6app.azurewebsites.net 
 
 ### Flask-Based RESTful API
 - For more information, click [here](https://github.com/Beczheng/flask_6_api_management/blob/main/LocalFunctionProj/function_app.py).
