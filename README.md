@@ -6,7 +6,7 @@
 - **Link:** https://flask6app.azurewebsites.net 
 
 ### Flask-Based RESTful API
-- For more information, click here.
+- For more information, click [here]().
 - **Note:** Make sure to `pip install flasgger`.
 
 ### Function App Deployment
@@ -21,4 +21,4 @@
 - Type `func azure functionapp publis <app name>`.
 
 ### OpenAI Documentation
-- For more information, click here.
+- For more information, click click [here](https://github.com/Beczheng/flask_6_api_management/tree/main/flask).
