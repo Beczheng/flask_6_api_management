@@ -6,7 +6,7 @@
 - **Link:** https://flask6app.azurewebsites.net 
 
 ### Flask-Based RESTful API
-- For more information, click [here]().
+- For more information, click [here](https://github.com/Beczheng/flask_6_api_management/blob/main/LocalFunctionProj/function_app.py).
 - **Note:** Make sure to `pip install flasgger`.
 
 ### Function App Deployment
