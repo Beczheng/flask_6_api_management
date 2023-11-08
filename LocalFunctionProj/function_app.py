@@ -30,4 +30,3 @@ def http_trigger(req: func.HttpRequest) -> func.HttpResponse:
         )
 
 # string for query = /api/hello?firstname=John&lastname=Doe&number=5&number2=5
-# string for swagger documentation = /apidocs/
