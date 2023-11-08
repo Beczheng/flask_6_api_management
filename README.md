@@ -20,4 +20,4 @@
 - In your Cloud Shell, type `func start`. This will check if your app is running locally.
 - Type `az functionapp create --resource-group <resource group name> --consumption-plan-location eastus --runtime python --runtime-version 3.9 --functions-version 4 --name <app name> --os-type linux --storage-account <storage account name>`. This will create the Azure Function API in Azure.
 - Type `func azure functionapp publish <app name>`. This will publish the Azure Function API.
-- **Note:** I used [this resource](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python?tabs=macos%2Cbash%2Cazure-cli&pivots=python-mode-decorators) to help me.
+
